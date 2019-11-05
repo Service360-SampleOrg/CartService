@@ -1,0 +1,12 @@
+' CartService
+@startuml
+
+node CatalogService {
+}
+
+node CartService{
+}
+
+CartService --> CatalogService
+
+@enduml
