@@ -4,9 +4,9 @@ Simple CRUD service responsible for persisting customers' cart from
 creation and until order checkout. Also provides `checkout` endpoint
 which transforms given cart into an Order. 
 
-Owner|Tier|Status|Landscape|Contexts
----|---|---|---|---
-CheckoutTeam|Tier1|Prod|Web|Catalog
+Owner|Tier|Status|Contexts
+---|---|---|---
+CheckoutTeam|Tier1|Prod|Web,Catalog
 
 ##### Environments
 
